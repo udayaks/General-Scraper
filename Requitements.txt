@@ -1,0 +1,17 @@
+Language : Python version 3.6
+
+Framework used:
+	pandas
+	numpy
+	lxml
+	request
+	os
+	multiprocessing
+	datetime
+	ast
+	
+Exceptions/Challanges: None
+
+
+	
+Author : Udaya Krishna Shrestha

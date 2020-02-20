@@ -1,0 +1,7 @@
+Instructions:
+	- First configure 'Input files: "url.csv" and "xpath.csv"' in 'Input folder'
+		Note: 
+			- url.csv file only contain urls with column header "url" in lower case. 
+			- xpath.csv file contain 'field' and 'xpath' as header which are both in lower case.
+			
+		
